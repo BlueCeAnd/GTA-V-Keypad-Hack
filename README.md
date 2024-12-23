@@ -1,10 +1,9 @@
 # **GTA-V-HEIST-VAULT-HELPER**
 
-![screenshot](README/Image1.png)
-
 **Do you like making the fingerprint hacks in GTA V?**
 **_I do! (but I know, you don't)_ That's why I made a program, that does that for you.**
 
+![screenshot](README/Image1.png)
 
 ## **USAGE:**
 It is a program, originally written in **Python 3.11.7**, but as I know, it works in any version greater than **3.9** (**>3.9**)
