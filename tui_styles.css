@@ -1,0 +1,17 @@
+/* Simplified Example CSS for TUI Styles */
+.title {
+    text-style: bold;
+    color: white;
+}
+
+.button {
+    background: blue;
+    color: white;
+    border: solid white; /* Use border syntax supported by TUI */
+    margin: 1;            /* Adjusted to TUI's integer-based margin */
+    padding: 1;           /* Single value for padding */
+}
+
+.highlight {
+    color: yellow;
+}

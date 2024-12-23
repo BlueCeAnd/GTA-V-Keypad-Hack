@@ -1,0 +1,7 @@
+PyQt5==5.15.9
+opencv-python>=4.10.0
+keyboard==0.13.5
+numpy==1.26.0
+scikit-image==0.21.0
+textual==0.12.1
+pyautogui
