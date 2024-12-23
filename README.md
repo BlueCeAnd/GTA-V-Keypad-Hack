@@ -8,11 +8,17 @@
 ## **USAGE:**
 It is a program, originally written in **Python 3.11.7**, but as I know, it works in any version greater than **3.9** (**>3.9**)
 
-**Start the program by running, the _start.bat_**
-It automatically creates a virtual enviroment _(.env)_ and installs the requirements
+#### **Start the program by running, the _start.bat_**
+![screenshot](README/Image5.png)
 
-In case, something goes wrong, you can setup yourself by running:
-**pip install -r requirements.txt**
+
+###### It automatically creates a virtual enviroment _(.env)_ and installs the requirements
+
+
+![screenshot](README/Image6.png)
+
+###### In case, something goes wrong, you can setup yourself by running:
+##### **pip install -r requirements.txt**
 
 You can run the program by python main.py --headless
     _(because the regular UI (tui) is buggy)_
